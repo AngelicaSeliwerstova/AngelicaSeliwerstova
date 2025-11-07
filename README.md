@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Привет! Меня зовут Анжелика Селиверстова 
 
-<!--
-**AngelicaSeliwerstova/AngelicaSeliwerstova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать на мой GitHub prifile
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### О себе😻
+
+- Я живу в Санкт-Петербурге
+- 🎓Учусь в [SPBU](https://spbu.ru/) на факультете "Программирование и информационные технологии"
+ - ✉️ Связаться со мной можно по email: [seliwerstovaanzhe@yandex.ru](mailto:seliwerstovaanzhe@yandex.ru) 
+
+### Навыки 
+---
+    -умение работать в Exel
+    -знание C++ Python
+    -владение английским языком C1 
+
+    -избирательное решение задач
+
+    ---
+
+### Мои пикми проектики💖:
+[☦️](https://github.com/AngelicaSeliwerstova/amcp-cv/blob/gh-pages/cv.md)
